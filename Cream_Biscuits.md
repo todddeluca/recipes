@@ -1,6 +1,6 @@
 Recipe: Cream Biscuits
 
-http://smittenkitchen.com/blog/2009/12/cream-biscuits/
+Source: http://smittenkitchen.com/blog/2009/12/cream-biscuits/
 
 Ingredients:
 
