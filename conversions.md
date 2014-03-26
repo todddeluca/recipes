@@ -3,32 +3,32 @@
 
 Imperial recipes tend to use volume (cup, teaspoon) measures, whereas Metric recipes tend to use mass (gram) measures.  Since different foods have different densities, conversions vary considerably.  The following table is sorted by density, to give you an intuition for how different foods "cluster" into similar densities.  E.g. "flours" -- corn meal, wheat flour, cocoa powder -- are all 125g/cup.
 
-- Maple syrup: 1 cup = 322 grams 
-- Milk, sweetened condensed: 306 grams 
-- Milk, non-fat: 1 cup = 245 grams 
-- Yogurt: 1 cup = 245 grams 
-- Water: 1 cup = 236 grams 
-- Butter: 1 cup = 227 grams 
-- Oil: 1 cup = 224 grams 
-- Brown sugar: 1 cup, packed = 220 grams 
+- Maple syrup: 1 cup = 322 grams
+- Milk, sweetened condensed: 306 grams
+- Milk, non-fat: 1 cup = 245 grams
+- Yogurt: 1 cup = 245 grams
+- Water: 1 cup = 236 grams
+- Butter: 1 cup = 227 grams
+- Oil: 1 cup = 224 grams
+- Brown sugar: 1 cup, packed = 220 grams
 - Granulated sugar: 1 cup = 200 grams, 1 Tbsp = 12g, 1 fl oz = 25g
-- White rice, uncooked: 1 cup = 185 grams 
-- White rice, cooked: 1 cup = 175 grams 
-- Raisins: 1 cup, packed = 165 grams 
-- Sifted white flour: 1 cup = 125 grams 
+- White rice, uncooked: 1 cup = 185 grams
+- White rice, cooked: 1 cup = 175 grams
+- Raisins: 1 cup, packed = 165 grams
+- Sifted white flour: 1 cup = 125 grams
 - Corn meal: 1 C = 125g
 - Cocoa: 1 C = 125 g,  1 Tbsp = 8g, 1 fl oz = 16g
-- Confectioners sugar: 1 C = 110 g 
-- Almonds, slivered: 1 cup = 108 grams 
-- Broccoli, flowerets: 1 cup = 71 grams 
-- Milk, dry: 1 cup = 68 grams 
-
+- Confectioners sugar: 1 C = 110 g
+- Almonds, slivered: 1 cup = 108 grams
+- Broccoli, flowerets: 1 cup = 71 grams
+- Milk, dry: 1 cup = 68 grams
+- Salt, morton's table: 1 Tbsp = 18 g
 
 
 # Imperial-to-imperial Volume Conversions
 
 1 Tbsp = 1/16 Cup = 0.5 fl oz = 14.79 ml
-1 tsp = 1/48 Cup = 
+1 tsp = 1/48 Cup =
 1 oz = 2 Tbsp
 1 oz = 6 tsp
 1 cup = 8 oz = 16 Tbsp = 48 tsp
@@ -103,7 +103,7 @@ Solid Shortening: 1 cup =7.25 oz
 
 
 Butter
-If you know a cup of butter weighs 8 ounces, you could do the math yourself: 
+If you know a cup of butter weighs 8 ounces, you could do the math yourself:
 
 1 ounce = 28.34 grams, so one cup of butter weighs 227 grams.
 
