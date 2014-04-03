@@ -30,13 +30,3 @@ Some sauerkraut recipes on youtube with good directions and pointers:
 
 - My Go-To : Mark Frauenfelder's Go-To Sauerkraut.  https://www.youtube.com/watch?v=3djrjZqcp8M
 - German Sauerkraut Making - Authentic Method.  https://www.youtube.com/watch?v=p1vklK8h3h4
-
-Some other resources:
-
-- Brine recommendations, in grams! http://www.pickl-it.com/blog/636/brine-recommendations/
-
-## Commendations
-
-I'd like to give a shout out to Pickl-It.  I've really appreciated some of the company's blog posts.  In particular the one about [brine recommendations][14].  They give a salt mass to cabbage weight ratio that when translated to purely grams is roughly "1g salt for every 100g cabbage".  The exciting thing about access to this ratio is that I can explore more precisely the effects that different salinities have on the ferment.  Thank you, Pickl-It.
-
-I also want to give a shout out to Sandor Katz.  The parts of his book, [The Art of Fermentation][13], that I have read live up to the extraordinarily compelling forward by Michael Pollan.  
