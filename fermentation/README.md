@@ -30,7 +30,10 @@ Here are [brine recommendations](http://www.pickl-it.com/blog/636/brine-recommen
 
 For sauerkraut, based on the Pickl-it recommendation, I use 1g salt for every 100g cabbage.  This should produce about a 2% brine, which I found to be very mild.  Use more salt (or less) as desired.
 
-For a 2% brine, add 2g salt to every 100g of water.  For a 5% brine, add 5g instead.
+For a 2% brine, add 2g salt to every 100g of water.  For a 5% brine, add 5g instead.  For non-metric recipes:
+
+- 1 tablespoon of Morton's table salt is 18g
+- 1 cup of water is 237g.
 
 With a starting ratio, I can explore more precisely the effects that different salinities have on the ferment.
 
