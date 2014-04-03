@@ -1,13 +1,13 @@
-Sauerkraut
+# Sauerkraut
 
 Ahh, the trendiness of lacto-fermented sauerkraut, circa 2013.  One of my favorite commercial Sauerkrauts is Bubbie's (http://www.bubbies.com/prod_sauerkraut.shtml).  It has a very thin chop (1-2 mm) and a smooth, mellow flavor.  The ingredients?  Cabbage and salt.
 
-Ingredients:
+## Ingredients:
 
 - 3 medium heads of cabbage, finely shredded
 - Salt, non-iodized, about 1-2 g for every 100 g of cabbage.  This should make a 2-4% brine.
 
-Directions:
+## Directions:
 
 Three heads should make about a gallon / 4 liters of sauerkraut.
 
@@ -24,6 +24,8 @@ This recipe should yield about a gallon (4 liters) of sauerkraut.
 
 How much salt to use?  Pickl-it recommends a 2% brine solution for pickling cabbage.  They say this can be achieved with 22g salt for every 5 lbs of cabbage, which works out to about 1 g salt / 100 g cabbage.  Mark Frauenfelder recommends a tablespoon per head of cabbage.  A teaspoon (of table salt) is 18g.  A typical cabbage head is ~3 lbs, so there you go.  Experiment and keep notes.
 
+## Resources
+
 Some sauerkraut recipes on youtube with good directions and pointers:
 
 - My Go-To : Mark Frauenfelder's Go-To Sauerkraut.  https://www.youtube.com/watch?v=3djrjZqcp8M
@@ -32,3 +34,9 @@ Some sauerkraut recipes on youtube with good directions and pointers:
 Some other resources:
 
 - Brine recommendations, in grams! http://www.pickl-it.com/blog/636/brine-recommendations/
+
+## Commendations
+
+I'd like to give a shout out to Pickl-It.  I've really appreciated some of the company's blog posts.  In particular the one about [brine recommendations][14].  They give a salt mass to cabbage weight ratio that when translated to purely grams is roughly "1g salt for every 100g cabbage".  The exciting thing about access to this ratio is that I can explore more precisely the effects that different salinities have on the ferment.  Thank you, Pickl-It.
+
+I also want to give a shout out to Sandor Katz.  The parts of his book, [The Art of Fermentation][13], that I have read live up to the extraordinarily compelling forward by Michael Pollan.  
