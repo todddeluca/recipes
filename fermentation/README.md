@@ -1,4 +1,6 @@
+# Fermentation
 
+Here is information I have collected while learning how to ferment vegetables.
 
 ## Airlock Ball Jar Lid
 
@@ -36,6 +38,46 @@ For a 2% brine, add 2g salt to every 100g of water.  For a 5% brine, add 5g inst
 - 1 cup of water is 237g.
 
 With a starting ratio, I can explore more precisely the effects that different salinities have on the ferment.
+
+## Fermentation Vessels
+
+### Open Vessels
+
+Fermentation can happen in any crock or jar.  These crocks let in airborne yeasts and bacteria.  The aerobic (oxygen-rich) environment at the top of the jar is a fertile place for molds and yeasts to grow.  One must keep the fermenting food carefully submerged in brine to avoid mold growing on it.  The mold (and moldy food) should be removed frequently, to avoid bad flavors and textures.  Consider sealing the food with cling wrap or a ziplock bag filled with brine (which also weighs the food down).
+
+Examples:
+
+- [Ohio Stoneware 1-Gallon Crock](http://www.amazon.com/Ohio-Stoneware-1GC-Crock-7-34/dp/B002P4PS3S/)
+
+### Sealed Vessels
+
+A ball jar is an example of a sealed vessel.  I've never used one before.  During fermentation, they need to be "burped", opened, occassionally to avoid having the vessel explode from buildup of carbon dioxide pressure.  I imagine these vessels also have some mold build up, since they are periodically opened, allowing oxygen-rich air inside.
+
+Examples:
+
+- [Ball Wide-Mouth Mason Jars with Lids and Bands](http://www.amazon.com/Ball-Wide-Mouth-Quart-Bands/dp/B005T6FBOK/)
+
+
+### Airlocked Vessels
+
+Vessels with an airlock produce an anaerobic environment within, as the carbon dioxide produced by fermentation dilutes and expels any air.  This inhibits the growth of molds and yeasts, potentially leading to crisper fermented vegetables, better flavor, and more consistent results.  Importantly, it also reduces or eliminates the need to clean mold from the top of the ferment.
+
+Examples:
+
+- [Kraut Kap](http://www.amazon.com/Primal-Kitchen-Kraut-Kap-Platinum/dp/B009RT4W9U/)
+- [Pickl-It](http://www.pickl-it.com/)
+- [Nik Schmitt Fermenting Crock](http://www.amazon.com/Schmitt-Gairtopf-German-Fermenting-Crock/dp/B00BMHZL5Y/)
+
+
+## Packing the Fermentation Vessel
+
+When fermenting vegetables, they should be packed into a vessel, pushed down beneath their brine.  If there is not enough brine to submerge the vegetables, then add a brine mixture (of the appropriate strength) to cover the vegetables.  A weight -- a plate with a water bottle on top, stoneware semicircular weights, or a ziploc bag filled with brine -- can and probably should be used to hold the vegetables under the brine, especially if fermenting in an open-air container.  I am still experimenting with airlocked containers.
+
+## Cold Storage
+
+A typical vegetable fermentation cultures at room temperature for a few days to a few weeks before being moved to cold storage for the long term.  Cold storage could be a refrigerator, basement, root cellar, wine cellar, etc.  The fermentation process will be slowed by the cold, preserving the food for longer.
+
+
 
 ## Further Reading
 
