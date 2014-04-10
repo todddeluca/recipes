@@ -4,7 +4,7 @@ Here is information I have collected while learning how to ferment vegetables.
 
 ## Airlock Ball Jar Lid
 
-Some people think that fermenting in the anaerobic environment achieved by using an airlock makes fermenting easier, more consistent and more delicious.  Some examples:
+I have read that fermenting in the anaerobic environment achieved by using an airlock makes fermenting easier, more consistent and more delicious.  Take these sources for example:
 
 - [Fermentation Equipment, Part 1: Airlocks][3].
 - [Mark Frauenfelder's Go-To Sauerkraut][4].
@@ -26,20 +26,40 @@ Usage:
 
 Place a seal on the jar.  Screw the cap onto the seal.
 
+Warnings:
+
+- Some people think using the Tattler lids for fermenting is a bad idea, since they contain a type of formaldehyde.
+
+Other DIY links:
+
+- http://wellpreserved.ca/air-locks-for-mason-jars-my-fermenting-will-reach-new-hieghts/
+- http://www.seasonedhomemaker.com/2012/10/how-to-make-your-own-fermenting-jar.html
+
+
+
 ## Brine
 
 Here are [brine recommendations](http://www.pickl-it.com/blog/636/brine-recommendations/) from the Pickl-it blog.  I have read that you should only use non-iodized salt.
 
 For sauerkraut, based on the Pickl-it recommendation, I use 1g salt for every 100g cabbage.  This should produce about a 2% brine, which I found to be very mild.  Use more salt (or less) as desired.
 
-For a 2% brine, add 2g salt to every 100g of water.  For a 5% brine, add 5g instead.  For non-metric recipes:
+To make a brine from salt and water with a certain percentage of salinity (by weight) add 1 gram of salt to every 100g of water, for every percentage point of salinity.  For example:
+
+- To make a 2% brine, add 2g salt to every 100g of water.
+- To make a 5% brine, add 5g instead.
+
+For non-metric recipes:
 
 - 1 tablespoon of Morton's table salt is 18g
 - 1 cup of water is 237g.
 
+A tablespoon of (Morton's table) salt in 3 cups of water produces a 2.5% salinity brine.  18g salt in 711g water.  
+
 With a starting ratio, I can explore more precisely the effects that different salinities have on the ferment.
 
 ## Fermentation Vessels
+
+Pickle Me Too has an interesting post on [fermentation vessels](http://www.picklemetoo.com/2013/03/13/do-i-have-to-use-a-special-vessel-to-ferment-in/).
 
 ### Open Vessels
 

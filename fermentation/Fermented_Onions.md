@@ -28,6 +28,7 @@ Garnish salads, burgers, hot dogs.  Eat raw to introduce microbes to your gut.  
 
 Sources:
 
+- [Fermented Red Onions](http://www.picklemetoo.com/2012/08/03/fermented-red-onions/)
 - [Simple fermented onion recipe](http://www.culturesforhealth.com/lacto-fermented-pickled-onion-recipe)
 - [Brine recommendations](http://www.pickl-it.com/blog/636/brine-recommendations/)
 - [Simple recipe with more angst](http://www.deliciousobsessions.com/2012/03/52-weeks-of-bad-a-bacteria-week-12-pickled-lacto-fermented-onions/)
