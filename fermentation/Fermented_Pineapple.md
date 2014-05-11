@@ -1,6 +1,6 @@
 Fermented Pineapple
 
-Is this a good idea?  Probably not.
+Is this a good idea?  Probably not.  Maybe I should try it without the skin next time.
 
 Ingredients:
 

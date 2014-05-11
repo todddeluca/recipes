@@ -5,13 +5,13 @@ Delicious and packed with vegetables, this stew pairs well with brown rice, swee
 Ingredients:
 
 - 300 g French green lentils, soaked
-- 6 bacon strips, chopped
+- 4-6 bacon strips, chopped
 - 1800 g vegetables
     - 4 sweet onions, chopped
     - 6 carrots, chopped
     - 6 celery stalks, chopped
     - 6 cloves garlic, sliced
-- 4 cups (~1000g) beef stock
+- 1000g beef stock (around 4 cups)
 - 2 bay leaves
 - salt to taste
 - 400g chopped kale
