@@ -62,37 +62,6 @@ wedges! I’m obsessed with lime.
 
 
 
-
-# Recipe: Breakfast Potatoes
-
-These homefries have a green, sparkling flavor, derived from fresh thyme and
-reduced champagne, that dresses up brunch.
-
-Ingredients:
-
-- 2 potatoes, sliced into ~1 x 1 x 1/4 inch pieces.
-- 2 sweet potatoes, sliced into ~1 x 1 x 1/4 inch pieces.
-- 3 Tbs butter
-- 3 tsp fresh thyme leaves
-- 2 onions, chopped.
-- 8 oz mushrooms, chopped.
-- 2 cups prosecco (or white wine)
-- 6 cloves garlic, diced.
-- 1 large tomato, chopped.
-
-Directions:
-
-- Chop potatoes yams into ~ 1 x 1 x 1/4 inch pieces.  Saute with 2 tbs butter
-  and 1 tbs thyme for 20-30 min, or until tender.  And water occassionally if
-  needed.
-- Reduce the prosecco to ~1/2 cup.
-- Saute onions and mushrooms with 1 TBS butter.
-- When onions are soft and clear add the tomato, garlic, and 2 tbs thyme.
-- Saute the onion mixture another couple of minutes, until the tomatoes soften.
-- Combine the onion mixture, potatoes, and reduction.  Add salt to taste.  Mix
-  and serve.
-
-
 # Recipe: Molten Chocolate Cakes
 
 By Jean-Georges Vongerichten
