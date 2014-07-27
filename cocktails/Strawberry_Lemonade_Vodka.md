@@ -1,4 +1,4 @@
-# Strawberry Leomonade Vodka
+# Strawberry Lemonade Vodka
 
 This delicious strawberry lemonade is made from scratch with lemons, strawberries, simple syrup, vodka.  It is delicious!
 The source is http://livelovepasta.com/2011/08/strawberry-lemonade-vodka/.
