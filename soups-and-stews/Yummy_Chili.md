@@ -1,6 +1,10 @@
-Yummy Yummy Chili
+# Yummy Yummy Chili
 
-This is a recipe from Mom.  
+From mom. 
+
+> Two yummy chili recipes. The first I made up combining a couple of online
+> recipes - the one I made in Burlington in May, Todd and Kirsten. The second
+> just looks great and was in a magazine.  Enjoy!
 
 Ingredients:
 
@@ -43,4 +47,24 @@ Notes:
 2.	Also can use 2 cans black beans and 1 can of pinto beans with jalapeño. 
 3.	Great served with corn bread. 
 4.	For vegetarian version, just omit turkey.
+
+
+# Five-bean Chili:
+
+Ingredients:
+
+- 2 c chopped onion
+- 1 c chopped carrot (sauté both 10" in Dutch oven)
+- 2 T unsalted tomato paste
+- 2 T minced garlic
+- 1.5 tsp dried oregano
+- 1.5 tsp chili powder
+- 1 tsp kosher salt
+- 1/2 tsp Spanish smoked paprika ( add these six ingredients to Dutch oven; cook 2", stirring constantly)
+- 4 c stemmed, torn kale
+- 3 c organic veggie broth
+- 2 red bell peppers, chopped
+- 1 jalapeño pepper, seeded and chopped
+
+
 
