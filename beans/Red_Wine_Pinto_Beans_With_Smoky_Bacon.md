@@ -1,5 +1,5 @@
 
-# Recipe: Victor's Bacon and Beans 
+# Recipe: Red Wine Pinto Beans With Smoky Bacon
 
 http://www.nytimes.com/recipes/1014548/Red-Wine-Pinto-Beans-with-Smoky-Bacon.html
 
@@ -47,4 +47,18 @@ Pressure Cooker Preparation:
   everything for 15-20 minutes - you can always check it and keep going.  It
   might be helpful to look at a chart on bean types and pressure-cooking times.
 
+Vegan Version:
+
+The vegan version replaces the smoky, fatty, salty, umami flavor of bacon with
+smoked paprika, coconut and olive oil, salt, and mushrooms and sun-dried tomatoes.
+
+- Replace the 1/2 pound of bacon with:
+  - 16 oz mushrooms
+  - 2 oz sun-dried tomatoes
+  - 2 T coconut oil
+  - 2 T extra virgin olive oil
+  - 1.5 T smoked paprika
+- Directions
+  - Start by sauteing the mushrooms, sun-dried tomatoes, and coconut oil over medium high heat, until the mushrooms are lightly browned.
+  - Follow the rest of the directions, adding the olive oil and smoked paprika when sauteing the onion, celery, carrots, etc.
 
