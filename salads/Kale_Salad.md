@@ -1,6 +1,9 @@
 
 Recipe: Kale Salad with Walnuts, Pomegranate and Goat Cheese
 
+Inspiration and other kale salads:
+http://cookieandkate.com/2014/12-favorite-kale-salads/
+
 Ingredients:
 
 - 1 "bunch" of kale
