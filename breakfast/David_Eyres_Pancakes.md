@@ -8,8 +8,8 @@ Sources:
 Ingredients:
 
 - 2 large eggs, lightly beaten
-- 1/3 cup all-purpose flour (original recipe uses 1/2)
-- 1/2 cup whole milk
+- 1/3 cup (42g) all-purpose flour (original recipe uses 1/2)
+- 1/2 cup (120g) whole milk
 - Pinch of ground nutmeg
 - 4 tablespoons butter
 - 2 tablespoons confectioners' sugar
