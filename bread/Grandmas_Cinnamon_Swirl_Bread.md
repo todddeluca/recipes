@@ -2,15 +2,15 @@
 
 Ingredients:
 
-- 1pkg or 3 t Active dry yeast OR 1 cake compressed yeast
-- ¼ c water
-- 2 c milk, scalded
-- ½ c sugar
-- ½ c butter or coconut oil (originally called for shortening)
-- 2 t salt
-- 7½ to 8 c sifted enriched flour (can use 1/2 whole wheat flour)
+- 1pkg or 3 t Active dry yeast OR 1 cake compressed yeast  15g
+- ¼ c water.  60g.
+- 2 c milk, scalded.  490g.
+- ½ c sugar  115g
+- ½ c butter or coconut oil (originally called for shortening)  110g.
+- 2 t salt  15g
+- 7½ to 8 c sifted enriched flour (can use 1/2 whole wheat flour).  640g white flour, 600g white whole wheat
 - 2 eggs
-- 1.5 c sugar mixed with 3 T cinnamon (originally was half the sugar and cinnamon)
+- 1.5 c sugar mixed with 3 T cinnamon (originally was 3/4 c sugar, 1.5 T cinnamon)
 
 Directions:
 
