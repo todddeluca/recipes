@@ -10,7 +10,7 @@ Ingredients:
 - 2 t salt  15g
 - 7½ to 8 c sifted enriched flour (can use 1/2 whole wheat flour).  640g white flour, 600g white whole wheat
 - 2 eggs
-- 1.5 c sugar mixed with 3 T cinnamon (originally was 3/4 c sugar, 1.5 T cinnamon)
+- 1.5 c sugar mixed with 3 T cinnamon (double the original recipe)
 
 Directions:
 
